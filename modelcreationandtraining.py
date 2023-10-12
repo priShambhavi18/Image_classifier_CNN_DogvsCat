@@ -47,4 +47,4 @@ model.fit(
     epochs=5,
 )
 
-model.save('/content/model_byprince.h5')
+model.save('/content/model_bysam.h5')
