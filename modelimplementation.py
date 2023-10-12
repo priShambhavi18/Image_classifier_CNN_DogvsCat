@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import os
 
 
-model = load_model('D:\\Untitled Folder\\model_byprince.h5')
+model = load_model('D:\\Untitled Folder\\model_bysam.h5')
 
 
 app  = Flask(__name__, template_folder='templates')
